@@ -1,0 +1,6 @@
+# Estándar de código en PHP
+Los estándares de código son conjuntos de directrices y convenciones que describen cómo se deben escribir y organizar el código de un programa. En el desarrollo de PHP, hay varios estándares de código que se han establecido con el tiempo para ayudar a los desarrolladores a escribir código más consistente, legible y mantenible.
+
+Algunos de los estándares de código más comunes en PHP incluyen PSR (PHP Standard Recommendations), que es un conjunto de directrices para la escritura de código PHP. PSR-1 específica los requisitos mínimos para el formato del código, mientras que PSR-2 específica un conjunto más detallado de reglas para el formato del código.
+
+Al seguir estos estándares de código, los desarrolladores pueden mejorar la legibilidad y la mantenibilidad de su código, lo que facilita la colaboración y la revisión de código en equipo. Además, al seguir estos estándares, se asegura una consistencia en el código escrito por diferentes desarrolladores, lo que puede ayudar a reducir los errores y mejorar la eficiencia del desarrollo.
